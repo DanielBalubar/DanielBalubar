@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-0B1D3A?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/Docker-0B1D3A?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
 <img src="https://img.shields.io/badge/Linux-0B1D3A?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
+<img src="https://img.shields.io/badge/Kali_Linux-0B1D3A?style=for-the-badge&logo=kalilinux&logoColor=557C94" alt="Kali Linux">
 <img src="https://img.shields.io/badge/Wazuh-1E88E5?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh">
 <img src="https://img.shields.io/badge/Python-0B1D3A?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python">
 <img src="https://img.shields.io/badge/Hack_The_Box-0B1D3A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box">
